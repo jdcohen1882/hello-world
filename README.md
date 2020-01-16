@@ -1,6 +1,6 @@
 # hello-world
 
-I WANT TO RENAME THIS BRANCH - BUT HOW!?
+Yay I deleted the old branch.
 
 This is my very first entry into Git. It's part of a multi-pronged career change including learning new skills like SQL and Python. I don't even know if I'm creating this repository in Git or GitHub. That's how newb I am to this. In fact, I'm new to an entire world of software development. I'm currently studying SQL and today (1/14/2020) started a course on Python which introduced me to Anaconda Navigator, Jupyter Notebooks and Sublime Text Editor.
 
